@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">myUAS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nirla wahidatus salam</string>
+    <string name="nav_header_subtitle">nim 19090060</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profile</string>
+    <string name="menu_gallery">Content</string>
+    <string name="menu_biodata">Hubungi Kamu</string>
+    <string name="menu_slideshow">Tentang</string>
+    <string name="txt_profile">Nama = Nirla Nahidatus Salam\n Nim = 19090060\n Semester = 5\n politeknik harapan bersama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">082278681148</string>
+    <string name="email">nirla@gmail.com</string>
+    <string name="tentang">Kami Buka Setiap Hari Senin Sampai Kamis</string>
+
+</resources>
